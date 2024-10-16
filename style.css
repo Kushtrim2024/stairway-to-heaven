@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  margin: 20px;
+}
+.container-1 {
+  outline: 10px rgb(236, 116, 186) solid;
+  width: 801px;
+  height: 801px;
+  position: relative;
+}
+.square1{
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+  margin-left: 75%;
+}
+.square2 {
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+  margin-left: 50%;
+  border: 5px solid gray;
+}
+.square3 {
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+  margin-left: 25%
+}
+.square4 {
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+  border: 5px solid gray;
+}
+.container-2 {
+    width: 800px;
+    height: 800px;
+    position: relative;
+  }
+  .square5{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid rgb(236, 102, 53);
+  }
+  .square-container6{
+    width:200px;
+    background-color: red;
+    padding-left: 25%;
+  }
+  .square6 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid rgb(236, 102, 53);
+  }
+  .square-container7{
+    width: 200px;
+    background-color: red;
+    padding-inline-start: 50%;
+
+  }
+  .square7 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid rgb(236, 102, 53);
+  }
+  .square-container8{
+    background-color: red;
+    padding-left: 75%;
+  }
+  .square8 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid rgb(236, 102, 53);
+    
+  }
